@@ -1,0 +1,12 @@
+package com.example.springaiguide;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringAiGuideApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(SpringAiGuideApplication.class, args);
+    }
+}
